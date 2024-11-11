@@ -30,7 +30,9 @@ To run this project, follow these steps:
    ```bash
    git clone https://github.com/AnjonMU/PDS_FinalProject.git
 
-   ## *Technologies Used*
+
+## *Technologies Used*
+   
 
 - *Python*: Main programming language for data processing and modeling.
 - *Pandas, **NumPy*: For data manipulation and numerical operations.

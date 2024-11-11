@@ -31,13 +31,11 @@ To run this project, follow these steps:
    git clone https://github.com/AnjonMU/PDS_FinalProject.git
 
 
-## *Technologies Used*
-   
+## Technologies Used
 
-- *Python*: Main programming language for data processing and modeling.
-- *Pandas, **NumPy*: For data manipulation and numerical operations.
-- *Scikit-Learn*: For machine learning models and evaluation.
-- *Matplotlib, **Seaborn*: For visualizing results.
-- *Google Colab*: For the development environment.
+- **Python**: Main programming language for data processing and modeling.
+- **Pandas, NumPy**: Libraries for data manipulation and numerical operations.
+- **Scikit-Learn**: Library for machine learning models and evaluation.
+- **Matplotlib, Seaborn**: Libraries for visualizing results.
+- **Google Colab**: Development environment.
 
----
